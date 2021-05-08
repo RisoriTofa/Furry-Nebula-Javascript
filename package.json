@@ -8,9 +8,9 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "gsap": "3.5.0",
+    "gsap": "3.6.0",
     "nice-color-palettes": "3.0.0",
-    "three": "0.119.1"
+    "three": "0.125.0"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
